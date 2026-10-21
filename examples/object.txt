@@ -1,0 +1,1 @@
+This file is uploaded and downloaded by the Lattice TypeScript SDK demo.

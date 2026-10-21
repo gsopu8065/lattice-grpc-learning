@@ -1,0 +1,9 @@
+{
+  "displayName": "Lattice SDK demo task",
+  "description": "A task created by the TypeScript SDK demo.",
+  "author": {
+    "system": {
+      "serviceName": "lattice-typescript-sdk-demo"
+    }
+  }
+}

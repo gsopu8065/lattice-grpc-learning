@@ -1,0 +1,13 @@
+{
+  "entityId": "1b671a64-40d5-491e-99b0-da01ff1f3341",
+  "description": "Lattice TypeScript SDK demo event",
+  "isLive": true,
+  "aliases": {
+    "name": "Lattice TypeScript SDK demo event"
+  },
+  "provenance": {
+    "integrationName": "lattice-typescript-sdk-demo",
+    "dataType": "DEMO",
+    "sourceId": "demo-event-1"
+  }
+}
